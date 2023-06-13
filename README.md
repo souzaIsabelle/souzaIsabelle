@@ -4,4 +4,3 @@
 - 💬 Ask me about tecnology
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i like games
--->

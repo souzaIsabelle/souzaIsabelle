@@ -25,8 +25,8 @@
 ##
 
 <div align="center">
-<img width="380em" alt="Status Github Isabellle" src="https://github-readme-stats.vercel.app/api?username=IsabelleSouzadaSilva&show_icons=true&theme=midnight-purple" />
-<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleSouzadaSilva&layout=compact&theme=midnight-purple"/>
+<img width="380em" alt="Status Github Isabelle" src="https://github-readme-stats.vercel.app/api?username=souzaIsabelle&show_icons=true&theme=midnight-purple" />
+<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzaIsabelle&layout=compact&theme=midnight-purple"/>
 </div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)

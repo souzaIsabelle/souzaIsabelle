@@ -31,4 +31,4 @@ Here's a further polished version:
 <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzaIsabelle&layout=compact&theme=dracula"/>
 </div>
 
-![Snake animation](https://github.com/souzaIsabelle/souzaIsabelle/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/souzaIsabelle/blob/output/github-contribution-grid-snake.svg)

@@ -1,9 +1,11 @@
 ### Hi there 👋
-- 🌱 I’m currently learning - systems development
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about tecnology
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i like games
+Here's a further polished version:  
+
+🎓 **Currently learning:** Technical Systems Development and pursuing a degree in Information Systems at Unisinos. 
+✨ **Looking for help with:** Development projects, technology, or creative ideas.  
+👨‍💻 **Ask me about:** Technology, programming, and innovation!  
+🦸‍♀️ **Pronouns:** She/Her.  
+🎮 **Fun fact:** I’m passionate about games and always eager for new digital adventures!  
 
 <div align = "center" style="display: inline_block"><br>
   <img align="center" alt="Isabelle-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,4 +31,4 @@
 <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzaIsabelle&layout=compact&theme=dracula"/>
 </div>
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/souzaIsabelle/souzaIsabelle/blob/output/github-contribution-grid-snake.svg)
